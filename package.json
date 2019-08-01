@@ -1,0 +1,28 @@
+{
+  "name": "funguaserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerKip/funguaServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DerKip/funguaServer/issues"
+  },
+  "homepage": "https://github.com/DerKip/funguaServer#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {
+    "chromedriver": "^75.1.0",
+    "geckodriver": "^1.16.2",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  }
+}
