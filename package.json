@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/DerKip/funguaServer#readme",
   "devDependencies": {
+    "chance": "^1.0.18",
     "mocha": "^6.2.0"
   },
   "dependencies": {
     "chromedriver": "^75.1.0",
+    "faker": "^4.1.0",
     "geckodriver": "^1.16.2",
     "selenium-webdriver": "^4.0.0-alpha.4"
   }
